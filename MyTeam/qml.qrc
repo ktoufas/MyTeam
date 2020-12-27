@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>MainForm.qml</file>
+        <file>NewTeamForm.qml</file>
+        <file>ViewTeamForm.qml</file>
+        <file>BackButton.qml</file>
+        <file>TitleLabel.qml</file>
+        <file>images/.DS_Store</file>
+        <file>images/addIcon.png</file>
+        <file>images/back.png</file>
+        <file>images/deleteIcon.png</file>
+        <file>images/ok.png</file>
+        <file>images/save.png</file>
+        <file>ViewPlayerForm.qml</file>
+        <file>MyLabel.qml</file>
+        <file>SaveButton.qml</file>
+        <file>CreatePlayerForm.qml</file>
+        <file>EditPlayerForm.qml</file>
+        <file>images/basket.png</file>
+    </qresource>
+</RCC>
